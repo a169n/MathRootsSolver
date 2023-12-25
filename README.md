@@ -18,10 +18,10 @@ To run the project, ensure you have Node.js installed on your machine.
    git clone https://github.com/a169n/math-roots-solver.git
 
 2. Navigate to the project directory:
-<cd math-roots-solver>
+`cd math-roots-solver`
 
 3. Run the project using Node.js:
-<node index.mjs>
+`node index.mjs`
 
 ## Methods
 
