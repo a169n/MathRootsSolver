@@ -1,0 +1,16 @@
+{
+  "name": "assignment2",
+  "version": "1.0.0",
+  "description": "Methods from assignment2 [Computational Math]",
+  "main": "bisectionMethod.js",
+  "scripts": {
+    "start": "node methods.js"
+  },
+  "keywords": [],
+  "author": "Aibyn Talgatov",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "mathjs": "^12.2.1"
+  }
+}
